@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sailaja Nissankurao</h1>
-<h3 align="center">Software Develeper | AI Enthusiast</h3><hr>
+<h3 align="center">Software Developer | AI Enthusiast</h3><hr>
 
 - 🌱 Currently exploring Generative AI, Large Language Models, Spring Boot, and React while strengthening my Data Structures & Algorithms skills.
   
