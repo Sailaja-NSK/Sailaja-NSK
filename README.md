@@ -15,13 +15,13 @@
 <h3 align="left">🛠️ Languages & Tools</h3>
 
 
-💻 **Programming Languages:** Java | Python | C
+💻 **Programming Languages:** Java | Python | SQL
 
-🌐 **Frontend Development:** HTML | CSS | React | Tailwind CSS
+🌐 **Frontend Development:** HTML | CSS | React
 
-⚙️ **Backend Development:** Spring Boot | Node.js | REST APIs | JDBC | Maven
+⚙️ **Backend Development:** Spring Boot | REST APIs | JDBC | Maven
 
-🤖 **AI & Machine Learning:** PyTorch | Scikit-learn | Pandas | NumPy | NLP | Generative AI | Gemini API | Prompt Engineering
+🤖 **AI & Machine Learning:** PyTorch | Pandas | NumPy 
 
 🗄️ **Database:** MySQL
 
